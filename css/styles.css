@@ -70,6 +70,19 @@
   box-sizing: border-box;
 }
 
+.dorik-dot-com {
+  text-decoration: none;
+  color: #181c24;
+}
+
+.dorik-dot-com:hover {
+  color: #3a30ba;
+}
+
+.dorik-job-desc {
+  text-align: justify;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
